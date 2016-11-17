@@ -63,5 +63,4 @@ fabric.properties
 # .idea/misc.xml
 # *.iprtarget
 README.md
-pom.xml
-src/
+src/com/
